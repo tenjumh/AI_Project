@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c46e86f-f738-470d-a6c0-462e0722c899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Attention_model/image/attention_mechanism.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attention_model/Attention_model_and_translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Attention_model/Attention_model_and_translation.ipynb" afterDir="false" />
     </list>
@@ -79,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587359844566</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update image">
+      <created>1587380699344</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587380699344</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update image">
+      <created>1587381072720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587381072720</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="transformer OCR" />
     <MESSAGE value="Pratice Attention_model Translation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pratice Attention_model Translation" />
+    <MESSAGE value="Update image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update image" />
   </component>
 </project>
