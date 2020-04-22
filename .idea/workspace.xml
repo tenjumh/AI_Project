@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c46e86f-f738-470d-a6c0-462e0722c899" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attention_model/Attention_model_and_translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Attention_model/Attention_model_and_translation.ipynb" afterDir="false" />
     </list>
@@ -14,18 +19,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1aganNkKxJOfbm7QLtyGsr9Q5da" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1_Study" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587381072720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pratics Attention Translation">
+      <created>1587383156407</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587383156407</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -110,6 +117,7 @@
     <MESSAGE value="transformer OCR" />
     <MESSAGE value="Pratice Attention_model Translation" />
     <MESSAGE value="Update image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update image" />
+    <MESSAGE value="Pratics Attention Translation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pratics Attention Translation" />
   </component>
 </project>
