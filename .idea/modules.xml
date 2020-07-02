@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/1_Project.iml" filepath="$PROJECT_DIR$/.idea/1_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../1_Study/.idea/1_Study.iml" filepath="$PROJECT_DIR$/../1_Study/.idea/1_Study.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PyTorch/.idea/Pytorch.iml" filepath="$USER_HOME$/PycharmProjects/PyTorch/.idea/Pytorch.iml" />
     </modules>
   </component>
 </project>

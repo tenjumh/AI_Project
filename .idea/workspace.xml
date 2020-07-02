@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c46e86f-f738-470d-a6c0-462e0722c899" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/1_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7c46e86f-f738-470d-a6c0-462e0722c899" name="Default Changelist" comment="Pratics Attention Translation">
+      <change beforePath="$PROJECT_DIR$/.idea/1_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attention_model/.ipynb_checkpoints/Attention_model_and_translation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Attention_model/.ipynb_checkpoints/Attention_model_and_translation-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Attention_model/Attention_model_and_translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Attention_model/Attention_model_and_translation.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +16,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="cf1400a2-40c1-4364-b41c-49f16489f566" />
   </component>
   <component name="ProjectId" id="1aganNkKxJOfbm7QLtyGsr9Q5da" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1_Study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1_Study/Pytorch" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,12 +102,44 @@
       <option name="project" value="LOCAL" />
       <updated>1587383156407</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Pratics Attention Translation">
+      <created>1587558186138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587558186138</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$USER_HOME$/PycharmProjects/PyTorch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -111,6 +148,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
